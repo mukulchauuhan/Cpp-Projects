@@ -18,3 +18,5 @@ DATE : 06 March 2024
          The srand() function performs pseudo-random number calculations. It requires a seed value, which is used to calculate random numbers. srand() then sets up the rand() function to generate pseudo-random 
          numbers.
       4. Please go through the program to know more about this project task.
+
+To learn github well, there are a lot of small and unneccessary updates that I'm making and I think it's ok because these will help me master VCS(version control system) to a good extent. Thankyou for reading this short message :)
