@@ -9,7 +9,7 @@ These are my projects list that I had been given during my internship journey.
                5. Creating a Movie Ticket Booking system.
 
 DATE : 06 March 2024
-   I have completed my first project - Creating a Number Guessing Game. You can look at the code in the respective folder of this repo. 
+   I have completed my first project - *Creating a Number Guessing Game*. You can look at the code in the respective folder of this repo. 
    
    # Things that I have mastered by making this project :
       1. I have learnt and explored a lot of stuff about PRNGs (Pseudo Random Number Generators).
