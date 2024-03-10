@@ -14,7 +14,8 @@ DATE : 06 March 2024
       1. I have learnt and explored a lot of stuff about PRNGs (Pseudo Random Number Generators).
       2. I used C++ STL in making it possible for seeding the number. 
       3. Using srand() and rand() - 
-         The srand() function performs pseudo-random number calculations. It requires a seed value, which is used to calculate random numbers. srand() then sets up the rand() function to generate pseudo-random 
+         The srand() function performs pseudo-random number calculations. It requires a seed value, which is used to calculate random numbers. srand() then sets up 
+         the rand() function to generate pseudo-random 
          numbers.
       4. Please go through the program to know more about this project task.
 
@@ -26,7 +27,8 @@ DATE : 09 March 2024
       1. I have learnt about vectors
       2. Handling the operations in the Switch case
       3. Taking input from the users 
-      4. .push_back : push_back is a member function of the C++ Standard Template Library (STL) containers like vector, deque, list, etc., which allows you to add a new element to the end of the container, 
+      4. .push_back : push_back is a member function of the C++ Standard Template Library (STL) containers like vector, deque, list, etc., which allows you to add 
+         a new element to the end of the container, 
          effectively increasing its size by one.
 
 In version control system : I learnt that we should not add .exe file in our repository. Instead a good way is to provide the instruction to the contributors on how they can access and run the file on their computers locally.
@@ -63,7 +65,17 @@ your_program.exe
 
 NOTE : *Make sure you have a C++ compiler like GCC installed on your system to follow these instructions*.
 
+DATE : 10 MARCH 2024
+   I have completed my third project - *Student Grading System*
+   # Things that I have learnt by doing this project : 
+        1. I have learnt C++ Structures and creating the members in that structures having different datatypes.
+        2. Got a thorough understanding of using dynamic arrays.
+        3. I have searched a lot to increase the modularity of the code. Thus I divided each task of the code into different functions.
+        4. I've done a lot to make this code an efficient one.
 
+
+For the certificate part I've completed all three out of five tasks. But for my extra knowledge I am going to explore remaining 2 also.
+Thankyou CodSoft for this amazing internship opportunity.
 
 
 
