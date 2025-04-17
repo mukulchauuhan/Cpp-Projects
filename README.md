@@ -5,7 +5,7 @@ This repository showcases a series of C++ projects demonstrating my understandin
 
 ---
 
-## ✅ 1. Number Guessing Game
+## 1. Number Guessing Game
 
 A simple CLI-based number guessing game that utilizes **pseudo-random number generation**.
 
@@ -17,7 +17,7 @@ A simple CLI-based number guessing game that utilizes **pseudo-random number gen
   
 ---
 
-## ✅ 2. Simple Calculator
+## 2. Simple Calculator
 
 A basic calculator program that performs arithmetic operations using user inputs.
 
@@ -29,7 +29,7 @@ A basic calculator program that performs arithmetic operations using user inputs
 
 ---
 
-## ✅ 3. Student Grading System
+## 3. Student Grading System
 
 A program that stores student data and calculates grades based on their scores.
 
